@@ -73,6 +73,7 @@ asteroids/
 ├── .python-version      # Python version configuration
 ├── .gitignore           # Git ignored files
 └── README.md            # Project documentation
+```
 
 ## Logs
 
