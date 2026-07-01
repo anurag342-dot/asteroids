@@ -13,3 +13,7 @@ wheels/
 
 game_state.jsonl
 game_events.jsonl
+
+#uv
+uv.lock
+
